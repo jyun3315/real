@@ -2,10 +2,11 @@ package com.your.dream.real;
 
 /**
  * Hello world!
+ * hi
  *
  */
-public class App 
-{
+public class App {
+
 	private App() 
 	{
 		// do not create App class directly
